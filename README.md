@@ -12,7 +12,6 @@ URL: [quiet-cliffs-62592.herokuapp.com/articles](http://quiet-cliffs-62592.herok
 
 The following **required** functionality is complete:
 
-> HINT: mark the items you completed with [x]
 
 * [X] User can create a new post, formatted using the Markdown language.
 * [X] User can edit an existing post.
@@ -30,7 +29,7 @@ The following **optional** features are implemented:
 
 The following **additional** features are implemented:
 
-- [ ] List anything else that you can get done to improve the app functionality!
+- [X] Created a Docker file with Rails+PostgreSQL for easier development environment setup
 
 ## Video Walkthrough 
 
