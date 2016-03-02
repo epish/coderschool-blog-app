@@ -16,9 +16,9 @@ The following **required** functionality is complete:
 * [X] User can create a new post, formatted using the Markdown language.
 * [X] User can edit an existing post.
 * [X] There is one post that introduces the App Creator with name, picture.
-* [X] User can delete stories, with an alert that asks the user to confirm.
-* [ ] User see a search form on the Posts page.
-* [ ] User can submit a search term to find all posts bywith titles containing the search term.
+* [+] User can delete stories, with an alert that asks the user to confirm (see Notes)
+* [X] User see a search form on the Posts page.
+* [X] User can submit a search term to find all posts bywith titles containing the search term.
 
 The following **optional** features are implemented:
 * [ ] There is a "navbar" that is responsive to window size similar to http://v4-alpha.getbootstrap.com/examples/navbar/. 
@@ -36,13 +36,14 @@ The following **additional** features are implemented:
 Here's a walkthrough of implemented user stories:
 
 
-![Video Walkthrough](walkthrough.gif)
+![Video Walkthrough](walkthrough2.gif)
+![Video Walkthrough-2](walkthrough3.gif)
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
 ## Notes
 
-It was a bit hard to setup an environment. I'm also still learning how to work with FE stuff and MVC models, so have completed only functionality provided in the video walkthrough
+Delete stories/post feature doesn't work for Heroku deployment for some reason. However it works as expected on my local environment (see Video Walkthrough-2 with local screencast)
 
 ## License
 
